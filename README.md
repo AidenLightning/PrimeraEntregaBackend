@@ -1,4 +1,4 @@
 # PrimeraEntregaBackend
 Primera entrega de proyecto Backend CoderHouse
 
-El proyecto se inicializa desde src app.js
+El proyecto se inicializa desde /src con app.js
